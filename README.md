@@ -95,11 +95,6 @@ class Igor:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **12+** | **15+** | **iOS + Android** | **5+ gateways** | **99.9%** | **3** |
 
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Trademydream2024&theme=github-dark-blue&hide_border=true&border_radius=10)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trademydream2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
 
 </div>
 
