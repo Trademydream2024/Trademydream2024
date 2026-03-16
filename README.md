@@ -1,111 +1,134 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+Expert;Bot+Specialist;API+Integration+Pro" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Igor%20Slobodnichenko&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Expert%20%7C%20Bot%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-# Hey, I'm Igor 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Building+systems+that+run+24%2F7+%F0%9F%94%A7;12%2B+Production+Systems+Deployed+%F0%9F%9A%80;Published+on+App+Store+%2B+Google+Play+%F0%9F%93%B1;5%2B+Payment+Gateways+Integrated+%F0%9F%92%B3" alt="Typing SVG" />
 
-### Python Developer | Automation & Bot Expert
+<br/>
 
-I build intelligent systems that work 24/7 so you don't have to.
-
----
-
-[![Portfolio](https://img.shields.io/badge/📁_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trademydream2024/Portfolio)
+[![Portfolio](https://img.shields.io/badge/📁_Full_Portfolio-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trademydream2024/Portfolio)
 [![Fiverr](https://img.shields.io/badge/Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/cloudbotdev)
+[![Telegram](https://img.shields.io/badge/Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorbrawlstarsbot)
 
 </div>
 
 ---
 
-## ⚡ What I Do
+## :zap: What I Do
 
 ```python
 class Igor:
     def __init__(self):
         self.role = "Backend Developer & Automation Expert"
-        self.languages = ["Python", "JavaScript", "PHP"]
+        self.languages = ["Python", "TypeScript", "JavaScript"]
         self.specialties = [
-            "Telegram Bots",
-            "API Integrations", 
-            "Real-Time Data Systems",
-            "Automation & Scheduling",
-            "Server Deployment (Linux/VPS)"
+            "Telegram Bots (4 in production)",
+            "AI-Powered Platforms (OpenAI GPT)",
+            "Multi-Gateway Payment Systems",
+            "Cross-Platform Mobile Apps (React Native)",
+            "Real-Time Data Processing",
+            "Server Infrastructure & Auto-Recovery",
         ]
-        self.fun_fact = "My bots have processed 10,000+ automated decisions"
-    
+        self.production_stats = {
+            "systems_running": "12+",
+            "api_integrations": "15+",
+            "payment_gateways": 5,
+            "uptime": "99.9%",
+        }
+
     def current_focus(self):
-        return "Building production-grade automation systems"
+        return "AI coaching platforms & payment automation"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
-### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### APIs & Data
-![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### Bots & Automation
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4B8BBE?style=for-the-badge&logo=robotframework&logoColor=white)
-![Scheduling](https://img.shields.io/badge/Task_Scheduling-FF4500?style=for-the-badge&logo=clockify&logoColor=white)
-
-### DevOps & Deployment
+![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-4B275F?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Featured Projects
-
-| Project | Description | Tech |
-|---------|------------|------|
-| 🌤️ **Weather Intelligence Platform** | Real-time monitoring across 20+ cities with probability engine | Python, NumPy, REST API, systemd |
-| 📈 **Market Analytics Engine** | Multi-strategy data analytics with VWAP & RSI indicators | Python, WebSocket, Pandas |
-| 🎮 **Gaming Automation Bot** | Telegram bot with payments, user management & V2 rebuild | Python, Telegram API, SQLite |
-| 👥 **Client CRM System** | Client management with tracking & automated follow-ups | Python, Database, Telegram |
-| ⚠️ **Risk Analysis Bot** | Real-time risk monitoring with alerts via Telegram | Python, Telegram, Database |
-
-👉 **[See full portfolio with architecture details →](https://github.com/Trademydream2024/Portfolio)**
-
----
-
-## 📈 GitHub Stats
+## :star2: Featured Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trademydream2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+| | Project | What It Does | Stack |
+|:-:|---------|-------------|:-----:|
+| :brain: | **AI Gaming Coach Platform** | AI recommendations, stats tracking, mobile app (iOS + Android) | Python, React Native, OpenAI, PostgreSQL |
+| :shield: | **Community Group Management** | 9 groups, CAPTCHA, spam filter, daily analytics | Python, Telegram API, asyncio |
+| :credit_card: | **Multi-Gateway Payments** | 5+ gateways, subscriptions, receipt validation | Python, Apple IAP, Google Billing |
+| :game_die: | **Daily Challenge Engine** | API-verified challenges, live tracking, auto-rewards | Python, REST API, PostgreSQL |
+| :cloud: | **Weather Intelligence** | 20+ cities, probability engine, real-time monitoring | Python, NumPy, RSA-PSS |
+| :chart_with_upwards_trend: | **Market Analytics Engine** | VWAP/RSI analysis, WebSocket data, multi-strategy | Python, WebSocket, Pandas |
+| :video_game: | **Gaming Automation Bot** | Payments, user management, V2 rebuild | Python, Telegram API |
+| :clipboard: | **Beta Tester Onboarding** | Multi-language registration, admin approval | Python, Telegram API |
+| :rocket: | **Server Infrastructure** | 6 systemd services, auto-recovery, backups | Linux, Nginx, Cloudflare |
+| :busts_in_silhouette: | **Client CRM System** | Client tracking, automated follow-ups | Python, Database |
+| :warning: | **Risk Analysis Bot** | Real-time risk monitoring, threshold alerts | Python, Telegram |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trademydream2024&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trademydream2024&theme=tokyonight&hide_border=true)
+:point_right: **[See full portfolio with architecture diagrams and details →](https://github.com/Trademydream2024/Portfolio)**
+
+---
+
+## :bar_chart: Stats
+
+<div align="center">
+
+| :building_construction: Systems | :electric_plug: APIs | :iphone: Mobile | :credit_card: Payments | :alarm_clock: Uptime | :globe_with_meridians: Languages |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **12+** | **15+** | **iOS + Android** | **5+ gateways** | **99.9%** | **3** |
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Trademydream2024&theme=github-dark-blue&hide_border=true&border_radius=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trademydream2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
 
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+## :briefcase: Services
 
 <div align="center">
 
-I'm available for freelance projects on Fiverr. Whether you need a **Telegram bot**, **API integration**, **automation system**, or **backend solution** — I've got you covered.
-
-[![Hire Me on Fiverr](https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/cloudbotdev)
-
-**⭐ Clean code · On-time delivery · Production-ready solutions ⭐**
+| I Build | For You |
+|:-------:|---------|
+| :robot: **Telegram Bots** | Payments, moderation, AI, gamification, multi-language |
+| :iphone: **Mobile Apps** | React Native, iOS + Android, in-app purchases |
+| :credit_card: **Payment Systems** | Multi-gateway, subscriptions, crypto, receipt validation |
+| :brain: **AI Platforms** | OpenAI integration, recommendations, coaching |
+| :zap: **Automation** | 24/7 bots, monitoring, scheduling, data processing |
+| :rocket: **Infrastructure** | Linux servers, systemd, auto-recovery, CI/CD |
 
 </div>
+
+---
+
+<div align="center">
+
+[![Fiverr](https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/cloudbotdev)
+[![Portfolio](https://img.shields.io/badge/Full_Portfolio-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trademydream2024/Portfolio)
+
+**:star: Clean code · On-time delivery · Production-ready solutions :star:**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
