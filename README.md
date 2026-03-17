@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Igor%20Slobodnichenko&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Expert%20%7C%20Bot%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Igor%20S&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Expert%20%7C%20Bot%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Building+systems+that+run+24%2F7+%F0%9F%94%A7;12%2B+Production+Systems+Deployed+%F0%9F%9A%80;Published+on+App+Store+%2B+Google+Play+%F0%9F%93%B1;5%2B+Payment+Gateways+Integrated+%F0%9F%92%B3" alt="Typing SVG" />
 
