@@ -31,7 +31,7 @@ class Igor:
             "Server Infrastructure & Auto-Recovery",
         ]
         self.production_stats = {
-            "systems_running": "12+",
+            "systems_running": "13+",
             "api_integrations": "15+",
             "payment_gateways": 5,
             "uptime": "99.9%",
@@ -80,6 +80,7 @@ class Igor:
 | :chart_with_upwards_trend: | **Market Analytics Engine** | VWAP/RSI analysis, WebSocket data, multi-strategy | Python, WebSocket, Pandas |
 | :video_game: | **Gaming Automation Bot** | Payments, user management, V2 rebuild | Python, Telegram API |
 | :clipboard: | **Beta Tester Onboarding** | Multi-language registration, admin approval | Python, Telegram API |
+| :page_facing_up: | **Branded Document System (RTL)** | Hebrew RTL web tool generating pixel-perfect branded PDFs from forms | Python, Flask, Playwright |
 | :rocket: | **Server Infrastructure** | 6 systemd services, auto-recovery, backups | Linux, Nginx, Cloudflare |
 | :busts_in_silhouette: | **Client CRM System** | Client tracking, automated follow-ups | Python, Database |
 | :warning: | **Risk Analysis Bot** | Real-time risk monitoring, threshold alerts | Python, Telegram |
