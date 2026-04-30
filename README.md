@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Igor%20S&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Expert%20%7C%20Bot%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Building+systems+that+run+24%2F7+%F0%9F%94%A7;12%2B+Production+Systems+Deployed+%F0%9F%9A%80;Published+on+App+Store+%2B+Google+Play+%F0%9F%93%B1;5%2B+Payment+Gateways+Integrated+%F0%9F%92%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Building+systems+that+run+24%2F7+%F0%9F%94%A7;13%2B+Production+Systems+Deployed+%F0%9F%9A%80;Published+on+App+Store+%2B+Google+Play+%F0%9F%93%B1;5%2B+Payment+Gateways+Integrated+%F0%9F%92%B3" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,8 @@ class Igor:
         self.languages = ["Python", "TypeScript", "JavaScript"]
         self.specialties = [
             "Telegram Bots (4 in production)",
-            "AI-Powered Platforms (OpenAI GPT)",
+            "AI-Powered Platforms (OpenAI GPT + Anthropic Claude)",
+            "Conversational Lead Qualification Engines",
             "Multi-Gateway Payment Systems",
             "Cross-Platform Mobile Apps (React Native)",
             "Real-Time Data Processing",
@@ -51,6 +52,8 @@ class Igor:
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,6 +83,7 @@ class Igor:
 | :rocket: | **Server Infrastructure** | 6 systemd services, auto-recovery, backups | Linux, Nginx, Cloudflare |
 | :busts_in_silhouette: | **Client CRM System** | Client tracking, automated follow-ups | Python, Database |
 | :warning: | **Risk Analysis Bot** | Real-time risk monitoring, threshold alerts | Python, Telegram |
+| :robot: | **AI Sales Agent & Lead Engine** | Conversational AI lead qualification, real-time scoring, multi-channel notifications | Python, FastAPI, PostgreSQL, Anthropic Claude |
 
 </div>
 
@@ -93,7 +97,7 @@ class Igor:
 
 | :building_construction: Systems | :electric_plug: APIs | :iphone: Mobile | :credit_card: Payments | :alarm_clock: Uptime | :globe_with_meridians: Languages |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **12+** | **15+** | **iOS + Android** | **5+ gateways** | **99.9%** | **3** |
+| **13+** | **16+** | **iOS + Android** | **5+ gateways** | **99.9%** | **3** |
 
 
 </div>
@@ -110,6 +114,7 @@ class Igor:
 | :iphone: **Mobile Apps** | React Native, iOS + Android, in-app purchases |
 | :credit_card: **Payment Systems** | Multi-gateway, subscriptions, crypto, receipt validation |
 | :brain: **AI Platforms** | OpenAI integration, recommendations, coaching |
+| :dart: **AI Sales Agents** | 24/7 chat that qualifies leads, scores them, and routes to your CRM |
 | :zap: **Automation** | 24/7 bots, monitoring, scheduling, data processing |
 | :rocket: **Infrastructure** | Linux servers, systemd, auto-recovery, CI/CD |
 
